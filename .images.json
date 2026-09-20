@@ -1,0 +1,376 @@
+{
+ "gallery": [
+  {
+   "src": "/images/gallery/bufala-margherita-pizza.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "Margherita pizza with bufala mozzarella and basil"
+  },
+  {
+   "src": "/images/gallery/classic-margherita-boxed.webp",
+   "w": 960,
+   "h": 1280,
+   "alt": "Classic margherita pizza boxed and ready to serve"
+  },
+  {
+   "src": "/images/gallery/event-catering-buffet-spread.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "An event catering spread of pizza, pasta and arancini"
+  },
+  {
+   "src": "/images/gallery/four-cheese-woodfire-pizza.webp",
+   "w": 624,
+   "h": 600,
+   "alt": "Four cheese woodfired pizza"
+  },
+  {
+   "src": "/images/gallery/ham-mushroom-pizza-cooling.webp",
+   "w": 960,
+   "h": 1280,
+   "alt": "Ham and mushroom woodfired pizza resting after baking"
+  },
+  {
+   "src": "/images/gallery/ham-mushroom-woodfire-pizza.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "Woodfired pizza with ham and mushroom, blistered at the crust"
+  },
+  {
+   "src": "/images/gallery/ham-pizza-woodfire.webp",
+   "w": 596,
+   "h": 797,
+   "alt": "Woodfired pizza topped with ham"
+  },
+  {
+   "src": "/images/gallery/loaded-meat-pizza.webp",
+   "w": 1080,
+   "h": 1080,
+   "alt": "Woodfired pizza loaded with ham, pepperoni and mushroom"
+  },
+  {
+   "src": "/images/gallery/loaded-woodfire-pizza.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "A generously loaded woodfired pizza fresh from the oven"
+  },
+  {
+   "src": "/images/gallery/margherita-before-firing.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "A hand-stretched margherita dressed and ready for the woodfire oven"
+  },
+  {
+   "src": "/images/gallery/margherita-fresh-from-oven.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "Margherita pizza boxed straight from the woodfire oven"
+  },
+  {
+   "src": "/images/gallery/margherita-woodfire-boxed.webp",
+   "w": 800,
+   "h": 600,
+   "alt": "Woodfired margherita pizza ready for a guest"
+  },
+  {
+   "src": "/images/gallery/margherita-woodfire-crust.webp",
+   "w": 960,
+   "h": 1280,
+   "alt": "Close view of a woodfired margherita and its leoparded crust"
+  },
+  {
+   "src": "/images/gallery/pepperoni-basil-tray-pizza.webp",
+   "w": 960,
+   "h": 1280,
+   "alt": "Tray-baked pepperoni pizza finished with fresh basil"
+  },
+  {
+   "src": "/images/gallery/pepperoni-slice-served.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "A slice of pepperoni pizza served during an event"
+  },
+  {
+   "src": "/images/gallery/pepperoni-woodfire-pizza.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "Woodfired pepperoni pizza fresh from the oven"
+  },
+  {
+   "src": "/images/gallery/pesto-zucchini-pizza.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "Pesto and zucchini woodfired pizza"
+  },
+  {
+   "src": "/images/gallery/pizza-service-selection.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "A run of freshly boxed pizzas lined up during event service"
+  },
+  {
+   "src": "/images/gallery/prosciutto-pizza-woodfire.webp",
+   "w": 596,
+   "h": 798,
+   "alt": "Woodfired pizza finished with prosciutto and rocket"
+  },
+  {
+   "src": "/images/gallery/prosciutto-rocket-boxed.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "Prosciutto and rocket pizza finished with a balsamic glaze"
+  },
+  {
+   "src": "/images/gallery/prosciutto-rocket-wooden-board.webp",
+   "w": 550,
+   "h": 440,
+   "alt": "Prosciutto and rocket pizza plated on a wooden board"
+  },
+  {
+   "src": "/images/gallery/quattro-formaggi-woodfire.webp",
+   "w": 624,
+   "h": 600,
+   "alt": "Golden four cheese woodfired pizza in its box"
+  },
+  {
+   "src": "/images/gallery/woodfire-margherita-basil.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "Woodfired margherita pizza topped with fresh basil leaves"
+  },
+  {
+   "src": "/images/gallery/woodfire-margherita-boxed.webp",
+   "w": 800,
+   "h": 600,
+   "alt": "Woodfired margherita pizza served in a Pizzaiolo box"
+  },
+  {
+   "src": "/images/gallery/woodfire-pizza-closeup.webp",
+   "w": 279,
+   "h": 374,
+   "alt": "Close view of a woodfired pizza"
+  }
+ ],
+ "pizza": [
+  {
+   "src": "/images/pizza/pizza-capsicum-salami.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Woodfired pizza with salami and capsicum on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-ham-mushroom.webp",
+   "w": 550,
+   "h": 440,
+   "alt": "Woodfired pizza with ham and mushroom on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-ham-salami-olive.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Woodfired pizza with ham, salami and olives on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-margherita.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Classic margherita pizza on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-mushroom-ham.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Woodfired pizza with mushroom and ham on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-mushroom-truffle.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Woodfired mushroom pizza on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-pepperoni.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Woodfired pepperoni pizza on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-prosciutto-balsamic.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Prosciutto pizza drizzled with balsamic on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-prosciutto-rocket.webp",
+   "w": 550,
+   "h": 440,
+   "alt": "Woodfired pizza with prosciutto, rocket and balsamic on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-quattro-formaggi.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Four cheese woodfired pizza on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-roasted-vegetable.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Roasted vegetable woodfired pizza on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-spicy-salami.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Spicy salami woodfired pizza on a wooden board"
+  },
+  {
+   "src": "/images/pizza/pizza-vegetariana.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "Vegetarian woodfired pizza with zucchini and red onion on a wooden board"
+  }
+ ],
+ "catering": [
+  {
+   "src": "/images/catering/arancini-italian-rice-balls.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Golden crumbed arancini rice balls on a wooden board"
+  },
+  {
+   "src": "/images/catering/catering-pasta-arancini-trays.webp",
+   "w": 1280,
+   "h": 960,
+   "alt": "Catering trays of baked pasta, lasagna and arancini on a buffet table"
+  },
+  {
+   "src": "/images/catering/italian-meatballs-garlic-bread.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Italian meatballs in Napoletana sauce beside woodfired garlic bread"
+  },
+  {
+   "src": "/images/catering/pepperoni-pizza-tray.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "Tray-baked pepperoni pizza with fresh basil"
+  },
+  {
+   "src": "/images/catering/pizza-selection-boxes.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "A selection of freshly boxed woodfired pizzas ready for service"
+  },
+  {
+   "src": "/images/catering/woodfire-garlic-bread-tray.webp",
+   "w": 800,
+   "h": 600,
+   "alt": "A tray of woodfired garlic bread"
+  },
+  {
+   "src": "/images/catering/woodfire-garlic-bread.webp",
+   "w": 1280,
+   "h": 960,
+   "alt": "Woodfired garlic bread sliced and ready to serve"
+  }
+ ],
+ "cannoli": [
+  {
+   "src": "/images/cannoli/biscoff-cannoli.webp",
+   "w": 480,
+   "h": 600,
+   "alt": "Biscoff cannoli served with Biscoff spread and biscuits"
+  },
+  {
+   "src": "/images/cannoli/cannoli-by-michele-board.webp",
+   "w": 771,
+   "h": 600,
+   "alt": "Sicilian cannoli filled to order and dusted with icing sugar"
+  },
+  {
+   "src": "/images/cannoli/cannoli-freshly-piped.webp",
+   "w": 600,
+   "h": 600,
+   "alt": "A freshly piped cannolo held in front of the Pizzaiolo logo"
+  },
+  {
+   "src": "/images/cannoli/nutella-cannoli-box.webp",
+   "w": 300,
+   "h": 300,
+   "alt": "A box of Nutella cannoli dusted with icing sugar"
+  },
+  {
+   "src": "/images/cannoli/sicilian-cannoli-ricotta.webp",
+   "w": 751,
+   "h": 600,
+   "alt": "Cannoli filled with sweetened ricotta on a wooden board"
+  }
+ ],
+ "setup": [
+  {
+   "src": "/images/setup/pizzaiolo-large-trailer-setup-dimensions.webp",
+   "w": 1023,
+   "h": 1537,
+   "alt": "Diagram of the Pizzaiolo large trailer setup showing top, side and rear views with dimensions"
+  },
+  {
+   "src": "/images/setup/pizzaiolo-small-trailer-setup-dimensions.webp",
+   "w": 1024,
+   "h": 1536,
+   "alt": "Diagram of the Pizzaiolo small trailer setup showing front, side and top views with dimensions"
+  },
+  {
+   "src": "/images/setup/pizzaiolo-trailer-corporate-event.webp",
+   "w": 800,
+   "h": 600,
+   "alt": "The Pizzaiolo mobile pizza trailer set up at a corporate event beside a Qantas aircraft"
+  },
+  {
+   "src": "/images/setup/woodfire-pizza-served-outdoors.webp",
+   "w": 800,
+   "h": 600,
+   "alt": "A woodfired pizza served outdoors at an event"
+  }
+ ],
+ "story": [
+  {
+   "src": "/images/story/margherita-fresh-made.webp",
+   "w": 960,
+   "h": 1280,
+   "alt": "A freshly dressed margherita waiting to go into the oven"
+  },
+  {
+   "src": "/images/story/pizza-dough-preparation.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "Pizza bases being hand-dressed on the bench before firing"
+  },
+  {
+   "src": "/images/story/pizzaiolo-chef-waterfront.webp",
+   "w": 480,
+   "h": 600,
+   "alt": "A Pizzaiolo chef holding a freshly made woodfired pizza by the water"
+  },
+  {
+   "src": "/images/story/woodfire-pizza-cheese-pull.webp",
+   "w": 450,
+   "h": 600,
+   "alt": "A slice of woodfired pizza lifted with a cheese pull"
+  }
+ ],
+ "hero": [
+  {
+   "src": "/images/hero/pizzaiolo-pizza-trailer.webp",
+   "w": 1536,
+   "h": 981,
+   "alt": "The Pizzaiolo mobile woodfire pizza trailer, wrapped in black and white photography"
+  },
+  {
+   "src": "/images/hero/woodfire-oven-flames.webp",
+   "w": 1280,
+   "h": 960,
+   "alt": "Flames inside the Pizzaiolo woodfire oven with a pizza on the peel"
+  }
+ ]
+}
